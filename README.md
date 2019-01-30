@@ -1,6 +1,8 @@
 Cronometro para revelação de fotografia
-Versão 1
+
+Versão 1:
 
 
-Adicionada a v2:
-Tem um menu de lavagem simples.
+v2:
+Adicionado o menu lavagem simples
+Corrigido um bug no state 25
