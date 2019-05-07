@@ -8,7 +8,7 @@ LiquidCrystal lcd(rs, en, d4, d5, d6, d7);
 #define btnNext 5
 #define btnEnter 6
 #define led 13
-#define rele 12
+#define rele 2
 #define apito 3
 
 #define nove 9
